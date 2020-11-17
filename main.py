@@ -16,3 +16,5 @@ while True:
       print("El resultado de la tirada fue: " + str(choice(range(1,dado+1)))+"\n--------------------------")
   else:
     print("¡El valor introducido DEBE ser un número!\n--------------------------")
+
+# Esto es un comentario final para probar la integración con el control de versiones de GitHub
